@@ -61,20 +61,12 @@ Here are some projects I’ve worked on or am currently building:
 
 ---
 
-## 📊 GitHub Stats
-
-![Subham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=subhampradhan143&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=subhampradhan143&layout=compact&theme=tokyonight)
-
----
-
 ## 🔗 Connect With Me
 
 - 💼 LinkedIn: [Subham Pradhan](https://www.linkedin.com/in/subham-pradhan-51424624a/)  
 - 📸 Instagram: [@i_am_subham_143](https://www.instagram.com/i_am_subham_143/)  
 - 🐦 X (Twitter): [@SUBHAMP12624413](https://x.com/SUBHAMP12624413)  
-- 📺 YouTube: **Subham Pradhan**
+- 📺 YouTube: **Subham Pradhan Vlogs**
 
 ---
 
