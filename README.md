@@ -5,7 +5,7 @@
 
 <!-- 🔥 Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?color=00F7FF&size=28&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+🚀;React+Specialist+⚛️;Content+Creator+🎬;Future+Software+Engineer+💻;Always+Learning+New+Things+🔥" />
+  <img src="https://readme-typing-svg.demolab.com?color=00F7FF&size=28&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+%F0%9F%9A%80;React+Specialist+%E2%9A%9B%EF%B8%8F;Content+Creator+%F0%9F%8E%AC;Future+Software+Engineer+%F0%9F%92%BB;Always+Learning+New+Things+%F0%9F%94%A5" />
 </p>
 
 ---
