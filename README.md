@@ -33,13 +33,13 @@
 ## 🧠 Animated Skills  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=subhampradhan143&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=subhampradhan143&theme=tokyonight" height="180"/>
   <img src="https://streak-stats.demolab.com/?user=subhampradhan143&theme=tokyonight&hide_border=true&background=0D1117" height="180"/>
 </p>
 
 ---
 
-## 📊 3D Contribution Graph  
+## 📊 GitHub Profile Summary  
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=subhampradhan143&theme=tokyonight" />
@@ -47,10 +47,10 @@
 
 ---
 
-## 🧩 Contribution Snake Animation  
+## 🧩 GitHub Contribution Stats  
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/subhampradhan143/subhampradhan143/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=subhampradhan143&theme=tokyonight" />
 </p>
 
 ---
@@ -67,7 +67,7 @@
 
 <p align="center">
   <a href="https://github.com/subhampradhan143/My-Portfolio-HTML">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=subhampradhan143&repo=My-Portfolio-HTML&theme=tokyonight" />
+    <img src="https://img.shields.io/badge/My%20Portfolio%20HTML-GitHub-181717?style=for-the-badge&logo=github" />
   </a>
 </p>
 
