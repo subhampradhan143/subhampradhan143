@@ -5,7 +5,7 @@
 
 <!-- 🔥 Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+🚀;React+Specialist+⚛️;Content+Creator+🎬;Future+Software+Engineer+💻;Always+Learning+New+Things+🔥" />
+  <img src="https://readme-typing-svg.demolab.com?color=00F7FF&size=28&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+🚀;React+Specialist+⚛️;Content+Creator+🎬;Future+Software+Engineer+💻;Always+Learning+New+Things+🔥" />
 </p>
 
 ---
@@ -34,7 +34,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=subhampradhan143&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=subhampradhan143&theme=tokyonight&hide_border=true&background=0D1117" height="180"/>
+  <img src="https://streak-stats.demolab.com/?user=subhampradhan143&theme=tokyonight&hide_border=true&background=0D1117" height="180"/>
 </p>
 
 ---
