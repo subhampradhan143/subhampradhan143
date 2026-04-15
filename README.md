@@ -63,11 +63,25 @@
 
 ---
 
-## 🚀 Featured Projects  
+## 🚀 Featured Project  
 
 <p align="center">
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=subhampradhan143&repo=your-repo-name&theme=tokyonight" /></a>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=subhampradhan143&repo=your-repo-name-2&theme=tokyonight" /></a>
+  <a href="https://github.com/subhampradhan143/My-Portfolio-HTML">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=subhampradhan143&repo=My-Portfolio-HTML&theme=tokyonight" />
+  </a>
+</p>
+
+<p align="center">
+  🌐 Personal Portfolio Website  
+</p>
+
+<p align="center">
+  <a href="https://github.com/subhampradhan143/My-Portfolio-HTML">
+    <img src="https://img.shields.io/badge/View%20Code-000?style=for-the-badge&logo=github" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Live%20Demo-00C853?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
 </p>
 
 ---
