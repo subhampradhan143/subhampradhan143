@@ -1,73 +1,114 @@
-# 👋 Hi, I'm Subham Pradhan
+<!-- 🔥 Animated Header -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=200&section=header&text=Subham%20Pradhan&fontSize=40&fontAlignY=35&animation=fadeIn&fontColor=ffffff" />
+</p>
 
-🎓 **B.Tech Student | Aspiring Software Developer**  
-💻 Passionate about building real-world projects and learning modern web technologies  
-🚀 Consistent learner with a strong growth mindset  
-
----
-
-## 👨‍💻 About Me
-
-- 🎓 4th-year B.Tech student  
-- 🌐 Interested in **Web Development & Software Engineering**  
-- 🛠️ Actively building projects using **HTML, CSS, and Python**  
-- 🔄 Comfortable with **Git & GitHub** for version control  
-- 📚 Preparing for competitive exams (SSC CGL, BARC OCES/DGFS) alongside tech  
-- 🎥 Content creator & video editor (educational + daily life content)
+<!-- 🔥 Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+🚀;React+Specialist+⚛️;Content+Creator+🎬;Future+Software+Engineer+💻;Always+Learning+New+Things+🔥" />
+</p>
 
 ---
 
-## 🧰 Tech Stack
+## 🚀 About Me  
 
-**Frontend**
-- HTML5  
-- CSS3 (Box Model, Layouts, Responsive Design – learning)
+<img align="right" alt="coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-**Backend / Programming**
-- Python (in progress)
-
-**Tools & Platforms**
-- Git  
-- GitHub  
-- VS Code  
-- Windows OS
+- 🎓 Final Year B.Tech Student  
+- 💻 Building **real-world projects**  
+- 🎯 Goal: **Software Developer Job**  
+- 🎬 YouTuber (Educational Content)  
+- ⚡ Fun fact: I code & edit videos with same energy  
 
 ---
 
-## 📌 Projects
+## 🛠️ Tech Stack  
 
-Here are some projects I’ve worked on or am currently building:
-
-- 🖼️ **Image Reconstruction from Occluded Scenes**  
-  *Major academic project focused on image processing concepts*
-
-- 🔥 **Online Fire Reporting System (Frontend)**  
-  *HTML-based frontend with structured semantic design*
-
-- 🛒 **Simple E-commerce Product Page**  
-  *Single-page HTML project with product details and form*
-
-➡️ More projects coming soon as I continue learning 🚧
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,nodejs,express,mongodb,git,github,vscode,figma" />
+</p>
 
 ---
 
-## 🎯 Current Goals
+## 🧠 Animated Skills  
 
-- ✅ Strengthen **CSS & Responsive Design**
-- 🔄 Start **JavaScript**
-- 🐍 Build backend logic using **Python**
-- 🌐 Create a **personal portfolio website**
-- 💼 Land a role as a **Software Developer / Technical Associate**
-
----
-
-## 🔗 Connect With Me
-
-- 💼 LinkedIn: [Subham Pradhan](https://www.linkedin.com/in/subham-pradhan-51424624a/)  
-- 📸 Instagram: [@i_am_subham_143](https://www.instagram.com/i_am_subham_143/)  
-- 🐦 X (Twitter): [@SUBHAMP12624413](https://x.com/SUBHAMP12624413)  
-- 📺 YouTube: **Subham Pradhan Vlogs**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=subhampradhan143&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=subhampradhan143&theme=tokyonight&hide_border=true&background=0D1117" height="180"/>
+</p>
 
 ---
 
-⭐ *“Learning every day, building step by step.”*
+## 📊 3D Contribution Graph  
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=subhampradhan143&theme=tokyonight" />
+</p>
+
+---
+
+## 🧩 Contribution Snake Animation  
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/subhampradhan143/subhampradhan143/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
+## 🔥 Cool Dev Quote  
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
+
+---
+
+## 🚀 Featured Projects  
+
+<p align="center">
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=subhampradhan143&repo=your-repo-name&theme=tokyonight" /></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api/pin/?username=subhampradhan143&repo=your-repo-name-2&theme=tokyonight" /></a>
+</p>
+
+---
+
+## 🌐 Connect With Me  
+
+<p align="center">
+  <a href="https://www.instagram.com/i_am_subham_143/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/subham-pradhan-51424624a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://x.com/SUBHAMP12624413"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="https://github.com/subhampradhan143"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+
+---
+
+## 👀 Profile Views Counter  
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=subhampradhan143&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
+</p>
+
+---
+
+## 🎮 Fun Animation Zone  
+
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="250"/>
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="250"/>
+</p>
+
+---
+
+## 🔥 Motto  
+
+<p align="center">
+  <b>💡 Code. Create. Conquer. 🚀</b>
+</p>
+
+---
+
+<!-- 🔥 Footer Wave -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00F7FF&height=120&section=footer"/>
+</p>
